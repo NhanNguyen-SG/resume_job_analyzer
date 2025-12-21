@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/
+
+# SQLite databases
+*.db
+
+# OS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
